@@ -96,7 +96,7 @@ Publish the website in the LocalHost.
              the intricate dance between our emotional and rational selves.</p>
       </div>
       <img src="heart.jpg" alt="Cover of Heart and Mind: The Battle of Consciousness">
-    </div>a
+    </div>
     
     </body>
     </html>
